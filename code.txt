@@ -1,0 +1,2 @@
+taskkill /im StudentMain.exe /f
+https://ws.imc.re/eaglercraft/single.html
